@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zachary Marasia
+title: <Zachary Marasia>
 ---
 
 ## About Me
