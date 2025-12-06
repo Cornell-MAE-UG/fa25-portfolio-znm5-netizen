@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Zachary Marasia
 description              : Zachary Marasia - Projects and CV 
-baseurl                  : "/Users/zachary.marasia/Desktop/fa25-portfolio-znm5-netizen/_projects/10/3/25 ENGRD 2020 HW 5.md" # Set this to your repo name 
+baseurl                  : "/fa25-portfolio-znm5-netizen/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
