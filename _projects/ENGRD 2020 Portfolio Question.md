@@ -1,5 +1,5 @@
 ---
-layout: ENGRD 2020 Portfolio
+layout: project
 title: ENGRD 2020 Portfolio Question
 description: Design I made
 technologies: My Brain
