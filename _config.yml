@@ -31,7 +31,7 @@ collections:
     output: true
   projects:
     output: true
-    permalink: /_projects/10/3/25 ENGRD 2020 HW 5.md/
+    permalink: /projects/:title/
 
 # Markdown
 markdown: kramdown
