@@ -88,8 +88,7 @@ Civil engineering student at Cornell University with hands-on experience in plum
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+AP Scholar with Distinction 2024 Jericho HS  
 
 ---
 
