@@ -1,19 +1,7 @@
+---
 layout: project
 title: ENGRD 2020 Portfolio Question
-description: Design I made
-technologies: My Brain
-image: /assets/images/ENGRD 2020 HW 5.jpg
-permalink: /projects/engrd-2020-portfolio-question/
-[1]
-### Images
-
-<div class="project-gallery">
-	<p><img src="{{ '/assets/images/engrd/engrd-1.jpg' | relative_url }}" alt="ENGRD image 1" class="project-image" /></p>
-	<p><img src="{{ '/assets/images/engrd/engrd-2.jpg' | relative_url }}" alt="ENGRD image 2" class="project-image" /></p>
-	<p><img src="{{ '/assets/images/engrd/engrd-3.jpg' | relative_url }}" alt="ENGRD image 3" class="project-image" /></p>
-	<p><img src="{{ '/assets/images/engrd/engrd-4.jpg' | relative_url }}" alt="ENGRD image 4" class="project-image" /></p>
-</div>
-Mechanism Design & Beam Analysis Project
+description: Mechanism Design & Beam Analysis Project
 
 This project focused on designing a lifting mechanism first as a rigid bar and then as a flexible beam. The work included identifying constraints, running a static analysis, and then redesigning the bar once deformation effects were introduced.
 
@@ -58,6 +46,12 @@ Evaluating deformation
 And selecting an efficient structural design that meets performance requirements
 
 The final result is a functional mechanism with an optimized beam that limits deflection while remaining lightweight.
+technologies: My Brain
+image: /assets/images/ENGRD 2020 HW 5.jpg
+permalink: /projects/engrd-2020-portfolio-question/
+---
+
+
 
 
 
