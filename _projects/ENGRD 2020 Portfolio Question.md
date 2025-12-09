@@ -48,9 +48,7 @@ And selecting an efficient structural design that meets performance requirements
 The final result is a functional mechanism with an optimized beam that limits deflection while remaining lightweight.
 technologies: My Brain
 image: /assets/images/ENGRD 2020 HW 5.jpg
-image: /assets/images/HW 12-20.jpg
-image: /assets/images/HW 12-21.jpg
-image: /assets/images/HW 12-22.jpg
+
 permalink: /projects/engrd-2020-portfolio-question/
 ---
 
