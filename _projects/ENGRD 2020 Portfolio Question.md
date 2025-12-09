@@ -7,7 +7,7 @@ image: /assets/images/ENGRD 2020 HW 5.jpg
 permalink: /projects/engrd-2020-portfolio-question/
 ---
 ## MY WORK FOR THE QUESTION
- [Download my CV]({{ "/assets/ENGRD 2020 Portfolio Work.pdf" | relative_url }}) in PDF format.
+ [View my Work!!]({{ "/assets/ENGRD 2020 Portfolio Work.pdf" | relative_url }}) in PDF format.
 
 ## DESCRIPTION
 Mechanism Design & Beam Analysis Project
